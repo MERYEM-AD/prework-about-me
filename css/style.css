@@ -20,7 +20,9 @@ body {
 .masthead-intro {
     margin-bottom: 0.1em;
     font-size: 2em;
-    color: #ffffff;
+    color:blueviolet;
+    font-family: fantasy;
+    
 }
 
 .masthead-heading {
@@ -30,6 +32,7 @@ body {
     letter-spacing: -0.02em;
     text-transform: uppercase;
     color: yellow;
+    font-family:cursive;
 }
 
 .details {
@@ -67,4 +70,26 @@ section > h1 {
 .social > li {
   display: inline-block;
   margin: 0 5px;
+}
+h1{
+
+  color: tomato;
+  
+}
+p{
+  font-size: 25 px;
+  color: aquamarine;
+}
+#p1{
+
+  color: teal;
+}
+#p3{
+
+  color:yellow;
+}
+#p6{
+
+  color:royalblue;
+  font-family:serif;
 }
